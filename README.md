@@ -24,3 +24,13 @@ https://drive.google.com/file/d/1WcKwus7arj_bFDo8irgH1su4Yu0PSdrr/view?usp=shari
 
 
 The Application Has two screens and they are as follows:-
+
+
+![photo_2022-09-11_14-15-27](https://user-images.githubusercontent.com/71084660/189519161-2699321b-552f-4b6b-bc88-27ad32e5a87c.jpg)
+
+
+
+![photo_2022-09-11_14-15-28](https://user-images.githubusercontent.com/71084660/189519168-ed4d16e6-228a-4454-9ec9-65ed4eb9077a.jpg)
+
+
+
