@@ -17,5 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-
+Yse the following drive URL to download the application's APK. :-
 https://drive.google.com/file/d/1WcKwus7arj_bFDo8irgH1su4Yu0PSdrr/view?usp=sharing
